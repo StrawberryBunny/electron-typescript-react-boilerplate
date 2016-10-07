@@ -12,9 +12,12 @@
   "devDependencies": {
     "electron-packager": "^8.1.0",
     "electron-prebuilt": "^1.4.3",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
     "typescript": "^2.1.0-dev.20161007",
     "typings": "^1.4.0"
+  },
+  "dependencies": {
+    "react-bootstrap": "^0.30.5",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }
